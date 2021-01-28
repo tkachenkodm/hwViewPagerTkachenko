@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hwViewPager</string>
+    <string name="country_area">%d km²</string>
+    <string name="pop_density">%.2f/km²</string>
+    <string name="area">Area</string>
+    <string name="population_density">Population density</string>
+    <string name="population">Population</string>
+    <string name="capital">Capital</string>
+    <string name="name">Name</string>
+</resources>
